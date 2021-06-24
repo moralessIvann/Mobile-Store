@@ -90,4 +90,10 @@ button, button:focus {
   margin-right: -4rem;
 }
 
+/* Special Price section template */
+#special-price .grid .grid-item {
+  padding-left: 4px;
+  margin-top: 1rem;
+}
+
 /*# sourceMappingURL=style.css.map */
