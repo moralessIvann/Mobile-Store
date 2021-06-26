@@ -2,4 +2,4 @@
 Mobile Store website
 
 Website for mobile store, still in progress.
-check updates: mobilestoreweb.000webhostapp.com
+check updates: <a href="https://mobilestoreweb.000webhostapp.com/">Mobile Store</a>
